@@ -9,3 +9,4 @@ Session Tracking: Automatically tracks completed work sessions with checkmarks.
 Start/Reset Functionality: Buttons to start the timer and reset it at any point.
 Visual Cues: (Implied, as it changes text/color) Visual indication of work/break cycles.
 A perfect project for practicing GUI development, event handling, and managing application state in Python. Developed as part of the 100 Days of Code Udemy course.
+![Pomodoro Timer Screenshot](Screenshot_1.png)
